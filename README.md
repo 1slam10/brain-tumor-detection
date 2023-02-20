@@ -70,9 +70,9 @@ To sum up everything that had been mentioned before, several convolutional layer
 
 After 10 epochs model has an accuracy of 96-98% and data loss that is in range 7-8%:
 
-![acc](acc_plot.png)
+![acc](readme/acc_plot.png)
 
-![loss](loss_plot.png)
+![loss](readme/loss_plot.png)
 
 And this is how model works step-by-step:
 
