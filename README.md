@@ -88,9 +88,9 @@ Just for fun I tried to upload my photo and that is pretty funny, ahahah.
 ## Next steps
 
 Next step is to master ML/DL skills, learn Data Sceince from scratch, because I am feeling lack of fundamental knowledge in this domain and make this project ready-to-use and integrate to hospitals on non-commercial base. I am planning to add some features like:
-Cancer type classification
-How much is it dangerous
-What may be caused by this exact type of tumor
+-  Cancer type classification
+-  How much is it dangerous
+-  What may be caused by this exact type of tumor  
 And so on...
 
 ## Useful links:
