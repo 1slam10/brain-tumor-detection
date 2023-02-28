@@ -77,3 +77,6 @@ history = model.fit(x_train, y_train,
         shuffle=False)
 
 model.save('BrainTumor20Epochs.h5')
+
+if not os.path.exists('uploads'):
+    os.mkdir('uploads')
